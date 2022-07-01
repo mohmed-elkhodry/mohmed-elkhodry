@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohmed-elkhodry
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently Seeking a Job ...
+- 🌱 I’m currently Frontend developer at Blackstone Eit ...
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me: mohmed.elkhodry98@gmail.com
 
